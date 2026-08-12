@@ -106,4 +106,4 @@ Desarrollar habilidades prácticas para diseñar y crear componentes esenciales 
 ## 📌 Acuerdos de Convivencia
 
 
-[Ver Acuerdos de Convivencia](Acuerdos%20de%20convivencia%20-%202026-1.pdf) 
+[Ver Acuerdos de Convivencia](Acuerdosdeconvivencia.pdf) 
