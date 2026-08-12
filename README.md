@@ -99,7 +99,7 @@ Desarrollar habilidades prácticas para diseñar y crear componentes esenciales 
 
 ## 🗓️ Asesorías
 
-> 🕐 Jueves de 13:00 a 14:00 horas
+> 🕐 Jueves de 13:00 a 14:00 horas (Tentativo)
 
 ---
 
